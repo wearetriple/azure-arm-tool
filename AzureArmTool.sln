@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureArmTool", "AzureArmTool\AzureArmTool.csproj", "{89282E05-1B33-4D12-90C2-D5A7BA1AF400}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89282E05-1B33-4D12-90C2-D5A7BA1AF400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89282E05-1B33-4D12-90C2-D5A7BA1AF400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89282E05-1B33-4D12-90C2-D5A7BA1AF400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89282E05-1B33-4D12-90C2-D5A7BA1AF400}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C06BCEEC-3C8B-44D8-BFBC-145598875EE5}
+	EndGlobalSection
+EndGlobal
