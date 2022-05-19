@@ -1,8 +1,7 @@
 {
   "profiles": {
     "AzureArmTool": {
-      "commandName": "Project",
-      "commandLineArgs": "nest --outputFile \"C:/Projects/citizenm-apim-configuration/artifacts/generated-arm-template/subscription-v2.json\" --inputFile \"C:/Projects/citizenm-apim-configuration/artifacts/open-api-arm-templates/subscription-v2/apimdevops-products.template.json\" --inputFile \"C:/Projects/citizenm-apim-configuration/artifacts/open-api-arm-templates/subscription-v2/apimdevops-namedValues.template.json\" --inputFile \"C:/Projects/citizenm-apim-configuration/artifacts/open-api-arm-templates/subscription-v2/apimdevops-apiVersionSets.template.json\" --inputFile \"C:/Projects/citizenm-apim-configuration/artifacts/open-api-arm-templates/subscription-v2/subscription-v2-initial.api.template.json\" --inputFile \"C:/Projects/citizenm-apim-configuration/artifacts/open-api-arm-templates/subscription-v2/subscription-v2-subsequent.api.template.json\""
+      "commandName": "Project"
     }
   }
 }
