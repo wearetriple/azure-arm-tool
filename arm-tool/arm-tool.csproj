@@ -6,6 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <ToolCommandName>arm-tool</ToolCommandName>
+    <PackAsTool>true</PackAsTool>
+    <Version>1.0.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
