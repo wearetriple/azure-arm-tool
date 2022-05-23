@@ -8,11 +8,11 @@ internal class FileWriter
     {
         // writes json object to provided location
         string jsonString = JsonConvert.SerializeObject(template,
-                        Formatting.Indented,
-                        new JsonSerializerSettings
-                        {
-                            NullValueHandling = NullValueHandling.Ignore
-                        });
+            Formatting.Indented,
+            new JsonSerializerSettings
+            {
+                NullValueHandling = NullValueHandling.Ignore
+            });
         File.WriteAllText(location, jsonString);
     }
 }
