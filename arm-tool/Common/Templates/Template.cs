@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace armtool.Common.Templates;
+namespace Armtool.Common.Templates;
 
 internal class Template
 {

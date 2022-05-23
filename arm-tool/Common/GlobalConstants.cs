@@ -1,4 +1,4 @@
-namespace armtool.Common;
+namespace Armtool.Common;
 
 internal static class GlobalConstants
 {

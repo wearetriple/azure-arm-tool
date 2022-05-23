@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace armtool.Common.FileHandlers;
+namespace Armtool.Common.FileHandlers;
 
 internal class FileWriter
 {

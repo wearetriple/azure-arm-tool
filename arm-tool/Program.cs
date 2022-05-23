@@ -1,8 +1,8 @@
-﻿using armtool.Commands;
-using armtool.Common;
+﻿using Armtool.Commands;
+using Armtool.Common;
 using Microsoft.Extensions.CommandLineUtils;
 
-namespace armtool;
+namespace Armtool;
 
 internal class Program
 {

@@ -1,9 +1,9 @@
-﻿using armtool.Common.FileHandlers;
-using armtool.Common.Templates;
-using armtool.Creators;
+﻿using Armtool.Common.FileHandlers;
+using Armtool.Common.Templates;
+using Armtool.Creators;
 using Newtonsoft.Json.Linq;
 
-namespace armtool.Commands;
+namespace Armtool.Commands;
 
 internal class NestCommand
 {

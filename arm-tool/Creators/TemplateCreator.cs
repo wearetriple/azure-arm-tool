@@ -1,8 +1,8 @@
-﻿using armtool.Common;
-using armtool.Common.Templates;
+﻿using Armtool.Common;
+using Armtool.Common.Templates;
 using Newtonsoft.Json.Linq;
 
-namespace armtool.Creators;
+namespace Armtool.Creators;
 
 internal class TemplateCreator
 {
